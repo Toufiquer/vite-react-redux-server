@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "6480c45d334bbae79dc74a8a",
+    "thumbnail": "url",
+    "author": {
+      "id": 0,
+      "img": "https://randomuser.me/api/portraits/men/50.jpg",
+      "name": "Dyer Odonnell"
+    },
+    "published": "2015-08-03T03:49:07 -06:00",
+    "readingTime": "3 minutes",
+    "title": "title",
+    "tags": ["reprehenderit", "et", "labore"]
+  },
+  {
+    "_id": "6480c45d3617379f0f2a75eb",
+    "thumbnail": "url",
+    "author": {
+      "id": 1,
+      "img": "https://randomuser.me/api/portraits/men/50.jpg",
+      "name": "Oliver Faulkner"
+    },
+    "published": "2021-03-31T09:29:11 -06:00",
+    "readingTime": "3 minutes",
+    "title": "title",
+    "tags": ["occaecat", "elit", "magna"]
+  },
+  {
+    "_id": "6480c45d656e817a93884531",
+    "thumbnail": "url",
+    "author": {
+      "id": 2,
+      "img": "https://randomuser.me/api/portraits/men/50.jpg",
+      "name": "Marsh David"
+    },
+    "published": "2020-01-12T04:12:12 -06:00",
+    "readingTime": "3 minutes",
+    "title": "title",
+    "tags": ["non", "nisi", "voluptate"]
+  },
+  {
+    "_id": "6480c45dac4840482a82421d",
+    "thumbnail": "url",
+    "author": {
+      "id": 3,
+      "img": "https://randomuser.me/api/portraits/men/50.jpg",
+      "name": "Conner Williamson"
+    },
+    "published": "2018-06-16T08:09:44 -06:00",
+    "readingTime": "3 minutes",
+    "title": "title",
+    "tags": ["dolor", "anim", "est"]
+  }
+]
